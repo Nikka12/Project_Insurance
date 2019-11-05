@@ -1,0 +1,31 @@
+
+
+/* When you mouse over the navigation links, change their color */
+
+/*foam css*/
+.container {  
+    margin-left: 460px;    
+    display: block;  
+  }  
+    
+  body {  
+    color: black;  
+    font-size: 20px;  
+  /*  font-family: Verdana, Arial, Helvetica, monospace;  */
+    background-color: lightgray;  
+  }   
+    
+  .form_group {  
+    padding: 10px;  
+       
+  }  
+    
+  label {  
+    float: left;  
+    padding-right: 50px;  
+    line-height: 70%;  
+    display: block;  
+    width: 208px;  
+  }   
+  
+  
